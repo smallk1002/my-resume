@@ -12,9 +12,9 @@
  
 # 个人技能
 
-- PHP / laravel框架 / redis (熟练运用，用于主要业务开发)
+- PHP / laravel框架 (熟练运用，用于主要业务开发)
 - JavaScript / vue / react (熟练运用，用vue搭建及开发在线下教育学习平台H5)
-- MySQL(熟练运用)
+- MySQL / Redis (熟练运用)
 - Homestead / node 及 wamp / wnmp 环境使用。
 - 微信小程序(熟练运用)
 - html/css(熟练运用)
@@ -37,9 +37,9 @@
    [解螺旋营销系统] ： (已暂停使用)
     
  ### 公司担任职务
-   PHP开发 / 前端开发 / 小程序开发 (团队协作开发)
+   PHP开发 / 前端开发 / 小程序开发
  ### 技术成长
-   深刻理解并使用 php / laravel / redis 框架
+   深刻理解并使用 php / laravel框架 / redis
    
    深刻理解 API 开发 / 文档编写
    
